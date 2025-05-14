@@ -43,7 +43,7 @@ input  {
 
 }
 
-#send_email_button {
+#send_email_button, .send_button {
 
     width: 120px;
     height: 40px;
@@ -54,3 +54,6 @@ input  {
 
 
 
+.form_element {
+    padding: 20px;
+}
